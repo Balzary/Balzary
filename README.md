@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Guilherme Travassos ✌️
+
+** Mobile Developer (Android and iOS)**
 
 <!--
 **Balzary/Balzary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
