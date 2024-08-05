@@ -2,7 +2,7 @@
 
 ### Mobile Developer (Android and iOS) ###
 
-I am an Android developer passionate about creating innovative and impactful solutions for millions of users. I graduated in Systems Analysis and Development from the Paulista College of Informatics and Administration (FIAP) in 2019 and am currently seeking an opportunity to return to the field I love."
+I am an Android developer passionate about creating innovative and impactful solutions for millions of users. I graduated in Systems Analysis and Development from the Paulista College of Informatics and Administration (FIAP) in 2019 and am currently seeking an opportunity to return to the field I love.
 
 ---
 
