@@ -2,13 +2,12 @@
 
 ### Mobile Developer (Android and iOS) ###
 
-Sou um desenvolvedor Android apaixonado por criar soluções inovadoras e impactantes para milhões de usuários. Me formei em Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Admninistração Paulista (FIAP) em 2019 e atualmente estou em busca de uma oportunidade para voltar pra área que amo.
+I am an Android developer passionate about creating innovative and impactful solutions for millions of users. I graduated in Systems Analysis and Development from the Paulista College of Informatics and Administration (FIAP) in 2019 and am currently seeking an opportunity to return to the field I love."
 
 ---
 
-### Conquistas ###
-Participei do Digital Experience, um projeto aplicado pela IBM em parceria com a FIAP, obtendo uma colocação entre os 10 melhores da FIAP.
-Também participei também do Smart Cities Challenge, outro projeto aplicado dessa vez pela Oracle em parceria com a FIAP, no qual eu e meu grupo ficamos em segundo lugar.
+### Achievements ###
+I participated in Digital Experience, a project conducted by IBM in partnership with FIAP, where I achieved a placement among the top 10 at FIAP. I also took part in the Smart Cities Challenge, another applied project, this time by Oracle in partnership with FIAP, where my team and I secured second place.
 
 
 
